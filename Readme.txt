@@ -13,9 +13,7 @@ hello,test
 test agagin.
 Creating a new branch is quick AND simple.&C
 add merge
-<<<<<<< Updated upstream
 fix bug 
 maybe done
-=======
 do I fixed it
->>>>>>> Stashed changes
+
